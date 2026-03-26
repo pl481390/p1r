@@ -1,0 +1,3 @@
+ ?to jest komentarz
+ to nie jest komentarz
+ to nie jest komentarz2
